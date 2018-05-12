@@ -1,0 +1,30 @@
+_repo: Mopsa-the-Fairy_32867
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32867-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ingelow, Jean
+    birthdate: 1820
+    deathdate: 1897
+    gutenberg_agent_id: '4305'
+    url: http://www.gutenberg.org/2009/agents/4305
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Ingelow
+description: Jack found a fairy's nest in a tree in the meadow. After sharing a bit
+  of cake with the baby fairies in it, he is whisked off by an albatross to Fairyland,
+  where he rescues the Fairy Queen. One of the fairies from the nest, Mopsa, wakes
+  up, and together they travel all over Fairyland.
+gutenberg_issued: '2010-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32867'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+title: Mopsa the Fairy
+url: http://www.gutenberg.org/ebooks/32867
